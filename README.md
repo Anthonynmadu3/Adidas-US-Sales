@@ -22,7 +22,7 @@ This dataset provides a full view into Adidas's sales processes in the US, suita
 ## 3. Dataset Description
 
 Adidas US Sales dataset holds detailed transactional data from different Adidas items sales across the United States. It contains 9,637 records and 13 features, pinch vital information such as, product type, geographic, profit, sales volume, pricing, and retailer details.  
-**Source (Kaggle)**
+**Source (www.kaggle.com)**
 
 ---
 
