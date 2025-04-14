@@ -40,6 +40,7 @@ The time series chart in the center reveals clearly ascending trends in sales in
 
 ## 6. Key Insights
 
+- Dashboard ![Image](https://github.com/user-attachments/assets/89234c0f-f201-4829-a25e-d7a7877d645c)
 - Adidas accomplished steady growth in sales income between 2020 and 2021, with important rising in early 2021 and during the vacation season, showing high seasonal demand.  
 - The western region appeared as number one performing location in terms of sales, proposing powerful market entry, good retail review matched to other locations.  
 - Sports direct, west gear, and foot locker are the most important retail collaborations, recording for a large amount of total income, while methods like Amazon and Walmart accounting for lower sales.  
